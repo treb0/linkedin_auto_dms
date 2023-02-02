@@ -1,0 +1,3 @@
+[submodule "selenium-driver"]
+	path = selenium-driver
+	url = https://github.com/treb0/selenium-driver.git

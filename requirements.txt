@@ -1,0 +1,6 @@
+selenium
+pandas
+pygsheets
+numpy
+IPython
+bs4
