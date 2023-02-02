@@ -4,3 +4,4 @@ pygsheets
 numpy
 IPython
 bs4
+webdriver_manager
